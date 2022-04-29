@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
+
+
+
+
+h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid yellowgreen;
+    width:20%;
+    margin-left: 42.5%;
+}
+
+p{
+    color: white;
+    text-indent: 20px;
+    border
+}
+
+body{
+    background-image:url(/img/lion.jpg);
+    background-size:cover;
+    font-family:'My Soul';
+}
+
+.material-symbols-outlined {
+    font-size: 100px;
+    color: red;
+}
+
+a{
+    color: aqua;
+    border: 1px solid blue;
+    text-decoration: none; 
+    margin: 5px;
+    padding: 5px;
+    border-radius: 25px 10px 10px 25px;
+}
+
+h2{
+    text-align: center;
+    border-left: 10px double yellow;
+    width:10%;
+    margin-left: 42.5%;
+}
+#bas{
+    font-size: 50px;
+}
+#haut{
+    font-size: 75px ;
+}
