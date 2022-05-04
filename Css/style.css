@@ -20,7 +20,7 @@ p{
 
 body{
     position: relative;
-    /* background-image:url(/img/feuille.png);  */
+    background-image:url(/img/feuille.png);
     background-size: auto;
     background-attachment: fixed;
     font-family:'My Soul';
@@ -48,10 +48,12 @@ h2{
 }
 
 #bas{
+    border: 5px dotted plum;
     font-size: 50px;
 }
 
 #haut{
+    border: 5px dotted plum;
     font-size: 75px ;
 }
 
