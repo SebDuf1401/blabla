@@ -151,7 +151,7 @@ h2{
     width: 200px;
     height: 700px;
     border: 1px solid purple;    
-    margin: 1px;
+    margin: 3px;
     overflow: auto;
 }
 
@@ -168,4 +168,5 @@ header{
 .center{
     display: flex;
     justify-content: center;
+    border: 1px dashed yellowgreen;
 }
